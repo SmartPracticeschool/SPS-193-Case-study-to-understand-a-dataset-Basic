@@ -5,6 +5,8 @@ Requires Jupyter Notebook for running
 
 Before running this file follow the steps
 
+download the 202006-capitalbikeshare-tripdata dataset form this <a href="https://drive.google.com/file/d/1rWQjDnBG7Ycf3QfrkhJWyFxwYsf8j8Xr/view?usp=sharing">link</a>
+
 open ananconda prompt and install the packages by using following commands:
 
 pip install numpy
